@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola!, soy Daniel Montillo, !Bienvenido!
 
-<!--
-**Axilon04/Axilon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer 👋
 
-Here are some ideas to get you started:
+## Contacto 🔎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/daniel-montillo-bb5b64236/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+## Acerca de mi 🙋‍♂️
+
+- Lenguajes 👅: Typescript, Javascript, Html, Css, 
+- Herramientas ⚙ : Angular, Nodejs, Express, MongoDb
+- 🟢 Focus ⏱: Enfocado como desarrollador Frontend Developer con Conocimiento de Backend.
+- Educacion 📚: OpenBootcamp, Coursera, Udemy y Cursando 4 (Cuarto) Semestre de la carrera de Ingenieria de Sistemas en la Universidad Corporativa del Meta (UNIMETA)
