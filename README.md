@@ -1,6 +1,6 @@
 ## Hola!, soy Daniel Montillo, !Bienvenido!
 
-## Frontend Developer 👋
+## Web Developer 👋
 
 ## Contacto 🔎
 
